@@ -36,3 +36,18 @@ La aplicación esta separada por módulos (A, B y D), cada uno de ellos demuestr
 
 ## Instrucciones de Ejecución 
 
+1. **Clonar el repositorio:**
+   ```sh
+   git clone https://github.com/youngrrichie/Compiladores-practicaDos.git
+   ```
+2. **Ejecutar main.py para iniciar la aplicación.**
+    
+3. **Ejecutar main.py para iniciar la aplicación.**
+    
+4.  **Elegir la gramática específica a utilizar.**
+   
+5.  **Ingresar la cadena a analizar en el campo de entrada y clck en Analizar**
+
+## Errores conocidos 
+
+Puede haber errores como no poder compilar el entorno gráfico, para eso se requiere clonar el repositorio en cualquier carpeta y ejecutarlo desde ahí.
