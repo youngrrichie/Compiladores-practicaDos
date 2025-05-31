@@ -1,0 +1,6 @@
+# Ignorar archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Ignorar carpetas de pruebas (si las usas)
+tests/__pycache__/
